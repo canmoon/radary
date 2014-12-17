@@ -1,44 +1,54 @@
 {
   "1": [
     {
+      "day" : 1
+    },
+    {
       "city":"Bezrzecze",
       "street":"Górna",
       "start":"8:00",
       "end":"10:30"
-      },
-      {
+    },
+    {
       "city":"Dobra",
       "street":"Graniczna",
       "start":"11:00",
       "end":"14:30"
-      }
+    }
   ],
   "2": [
+    {
+      "day" : 2
+    },
     {
       "city":"Mierzyn",
       "street":"Długa",
       "start":"8:00",
       "end":"11:00"
-      },
-      {
+    },
+    {
       "city":"Wołczkowo",
       "street":"Lipowa 1",
       "start":"11:30",
       "end":"14:00"
-      }
+    }
   ],
   "3": [
+    {
+      "day" : 3
+    },
     {
       "city":"Dobra",
       "street":"Szczecińska",
       "start":"8:30",
       "end":"12:00"
-      },
-      {
+    },
+    {
       "city":"Mierzyn",
       "street":"Topolowa",
       "start":"12:30",
       "end":"14:00"
-      }
+    }
   ]
+    
 }
