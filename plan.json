@@ -1,21 +1,4 @@
 {
-  "23": [
-    {
-      "day" : 23
-    },
-    {
-      "city":"Dobra",
-      "street":"Graniczna",
-      "start":"08:30",
-      "end":"12:00"
-    },
-    {
-      "city":"Bezrzecze",
-      "street":"Górna",
-      "start":"12:30",
-      "end":"14:00"
-    }
-  ],
   "24": [
     {
       "day" : 24
