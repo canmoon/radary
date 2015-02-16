@@ -1,21 +1,4 @@
 {
-  "5": [
-    {
-      "day" : 5
-    },
-    {
-      "city":"Dobra",
-      "street":"Graniczna",
-      "start":"08:30",
-      "end":"11:00"
-    },
-    {
-      "city":"Mierzyn",
-      "street":"Topolowa",
-      "start":"11:30",
-      "end":"14:30"
-    }
-  ],
   "6": [
     {
       "day" : 6
