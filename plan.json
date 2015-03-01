@@ -1,19 +1,123 @@
 {
+  "2": [
+    {
+      "day" : 2
+    },
+    {
+      "city":"Bezrzecze",
+      "street":"Górna",
+      "start":"07:45",
+      "end":"10:00"
+    },
+    {
+      "city":"Dobra",
+      "street":"Graniczna",
+      "start":"10:30",
+      "end":"14:30"
+    },
+    {
+      "city":"Wołczkowo",
+      "street":"Lipowa 2",
+      "start":"15:30",
+      "end":"17:00"
+    }
+  ],
+  "3": [
+    {
+      "day" : 3
+    },
+    {
+      "city":"Mierzyn",
+      "street":"Długa",
+      "start":"07:45",
+      "end":"11:00"
+    },
+    {
+      "city":"Dobra",
+      "street":"Szczecińska",
+      "start":"11:30",
+      "end":"14:00"
+    },
+    {
+      "city":"Dołuje",
+      "street":"Daniela",
+      "start":"16:00",
+      "end":"17:30"
+    }
+  ],
+  "4": [
+    {
+      "day" : 4
+    },
+    {
+      "city":"Bezrzecze",
+      "street":"Górna",
+      "start":"07:30",
+      "end":"10:00"
+    },
+    {
+      "city":"Mierzyn",
+      "street":"Topolowa",
+      "start":"10:30",
+      "end":"12:00"
+    },
+    {
+      "city":"Dobra",
+      "street":"Szczecińska",
+      "start":"12:30",
+      "end":"14:30"
+    },
+    {
+      "city":"Dobra",
+      "street":"Graniczna",
+      "start":"16:00",
+      "end":"17:30"
+    }
+  ],
+  "5": [
+    {
+      "day" : 5
+    },
+    {
+      "city":"Wołczkowo",
+      "street":"Lipowa 1",
+      "start":"07:30",
+      "end":"10:30"
+    },
+    {
+      "city":"Bezrzecze",
+      "street":"Górna",
+      "start":"11:00",
+      "end":"14:00"
+    },
+    {
+      "city":"Dołuje",
+      "street":"Daniela",
+      "start":"16:30",
+      "end":"18:00"
+    }
+  ],
   "6": [
     {
       "day" : 6
     },
     {
-      "city":"Mierzyn",
-      "street":"Długa",
-      "start":"08:00",
-      "end":"11:30"
-    },
-    {
       "city":"Bezrzecze",
       "street":"Górna",
-      "start":"12:00",
+      "start":"07:45",
+      "end":"11:00"
+    },
+    {
+      "city":"Dobra",
+      "street":"Graniczna",
+      "start":"11:30",
       "end":"14:00"
+    },
+    {
+      "city":"Wołczkowo",
+      "street":"Lipowa 2",
+      "start":"15:30",
+      "end":"17:00"
     }
   ],
   "7": [
@@ -22,9 +126,9 @@
     },
     {
       "city":"Wołczkowo",
-      "street":"Lipowa 2",
-      "start":"10:30",
-      "end":"12:00"
+      "street":"Lipowa 1",
+      "start":"11:00",
+      "end":"12:30"
     }
   ],
   "9": [
@@ -32,16 +136,22 @@
       "day" : 9
     },
     {
-      "city":"Dobra",
-      "street":"Graniczna",
+      "city":"Mierzyn",
+      "street":"Topolowa",
       "start":"08:00",
-      "end":"11:30"
+      "end":"9:30"
     },
     {
-      "city":"Wołczkowo",
-      "street":"Lipowa 1",
-      "start":"12:00",
-      "end":"14:30"
+      "city":"Bezrzecze",
+      "street":"Górna",
+      "start":"10:00",
+      "end":"13:30"
+    },
+    {
+      "city":"Dobra",
+      "street":"Szczecińska",
+      "start":"16:30",
+      "end":"18:00"
     }
   ],
   "10": [
@@ -49,16 +159,22 @@
       "day" : 10
     },
     {
-      "city":"Bezrzecze",
-      "street":"Górna",
-      "start":"08:00",
-      "end":"11:00"
+      "city":"Mierzyn",
+      "street":"Długa",
+      "start":"07:30",
+      "end":"10:30"
     },
     {
-      "city":"Wołczkowo",
-      "street":"Lipowa 2",
-      "start":"11:30",
+      "city":"Dobra",
+      "street":"Graniczna",
+      "start":"11:00",
       "end":"14:30"
+    },
+    {
+      "city":"Bezrzecze",
+      "street":"Górna",
+      "start":"16:30",
+      "end":"18:00"
     }
   ],
   "11": [
@@ -68,14 +184,20 @@
     {
       "city":"Dobra",
       "street":"Szczecińska",
-      "start":"08:00",
-      "end":"11:30"
+      "start":"07:30",
+      "end":"11:00"
     },
     {
-      "city":"Bezrzecze",
-      "street":"Górna",
+      "city":"Wołczkowo",
+      "street":"Lipowa 2",
       "start":"12:00",
       "end":"14:30"
+    },
+    {
+      "city":"Mierzyn",
+      "street":"Długa",
+      "start":"17:00",
+      "end":"18:30"
     }
   ],
   "12": [
@@ -83,16 +205,16 @@
       "day" : 12
     },
     {
-      "city":"Mierzyn",
-      "street":"Długa",
-      "start":"08:00",
+      "city":"Bezrzecze",
+      "street":"Górna",
+      "start":"07:30",
       "end":"12:00"
     },
     {
-      "city":"Mierzyn",
-      "street":"Topolowa",
-      "start":"12:30",
-      "end":"14:30"
+      "city":"Wołczkowo",
+      "street":"Lipowa 1",
+      "start":"16:00",
+      "end":"17:30"
     }
   ],
   "13": [
@@ -100,44 +222,45 @@
       "day" : 13
     },
     {
-      "city":"Bezrzecze",
-      "street":"Górna",
-      "start":"08:00",
-      "end":"10:30"
+      "city":"Mierzyn",
+      "street":"Topolowa",
+      "start":"07:30",
+      "end":"09:30"
     },
     {
       "city":"Wołczkowo",
-      "street":"Lipowa 1",
-      "start":"11:00",
-      "end":"14:00"
-    }
-  ],
-  "14": [
-    {
-      "day" : 14
+      "street":"Lipowa 2",
+      "start":"10:00",
+      "end":"13:30"
     },
     {
       "city":"Dobra",
       "street":"Graniczna",
-      "start":"10:30",
-      "end":"12:00"
+      "start":"16:30",
+      "end":"18:00"
     }
   ],
-   "16": [
+  "16": [
     {
       "day" : 16
     },
     {
-      "city":"Dobra",
-      "street":"Szczecińska",
-      "start":"08:30",
-      "end":"10:30"
+      "city":"Dołuje",
+      "street":"Daniela",
+      "start":"07:30",
+      "end":"11:00"
     },
     {
       "city":"Mierzyn",
       "street":"Długa",
-      "start":"11:00",
+      "start":"11:30",
       "end":"14:30"
+    },
+    {
+      "city":"Wołczkowo",
+      "street":"Lipowa 1",
+      "start":"17:00",
+      "end":"18:30"
     }
   ],
   "17": [
@@ -147,155 +270,20 @@
     {
       "city":"Bezrzecze",
       "street":"Górna",
-      "start":"08:00",
-      "end":"11:30"
-    },
-    {
-      "city":"Mierzyn",
-      "street":"Topolowa",
-      "start":"12:00",
-      "end":"14:00"
-    }
-  ],
-   "18": [
-    {
-      "day" : 18
-    },
-    {
-      "city":"Mierzyn",
-      "street":"Długa",
-      "start":"08:00",
-      "end":"11:30"
+      "start":"07:30",
+      "end":"11:00"
     },
     {
       "city":"Dobra",
       "street":"Graniczna",
-      "start":"12:00",
-      "end":"14:00"
-    }
-  ],
-  "19": [
-    {
-      "day" : 19
-    },
-    {
-      "city":"Dobra",
-      "street":"Szczecińska",
-      "start":"08:00",
-      "end":"10:00"
-    },
-    {
-      "city":"Wołczkowo",
-      "street":"Lipowa 1",
-      "start":"10:30",
-      "end":"14:30"
-    }
-  ],
-  "20": [
-    {
-      "day" : 20
-    },
-    {
-      "city":"Mierzyn",
-      "street":"Topolowa",
-      "start":"08:30",
-      "end":"10:30"
-    },
-    {
-      "city":"Bezrzecze",
-      "street":"Górna",
-      "start":"11:00",
-      "end":"14:00"
-    }
-  ],
-  "21": [
-    {
-      "day" : 21
-    },
-    {
-      "city":"Wołczkowo",
-      "street":"Lipowa 2",
-      "start":"10:00",
-      "end":"11:30"
-    }
-  ],
-  "23": [
-    {
-      "day" : 23
-    },
-    {
-      "city":"Dobra",
-      "street":"Szczecińska",
-      "start":"08:30",
-      "end":"11:30"
-    },
-    {
-      "city":"Bezrzecze",
-      "street":"Górna",
-      "start":"12:00",
-      "end":"14:30"
-    }
-  ],
-   "25": [
-    {
-      "day" : 25
-    },
-    {
-      "city":"Mierzyn",
-      "street":"Długa",
-      "start":"08:00",
-      "end":"11:00"
-    },
-    {
-      "city":"Bezrzecze",
-      "street":"Górna",
-      "start":"12:00",
-      "end":"14:00"
-    }
-  ],
-  "26": [
-    {
-      "day" : 26
-    },
-    {
-      "city":"Bezrzecze",
-      "street":"Górna",
-      "start":"08:00",
-      "end":"11:30"
-    },
-    {
-      "city":"Wołczkowo",
-      "street":"Lipowa 2",
-      "start":"12:00",
-      "end":"14:00"
-    }
-  ],
-   "27": [
-    {
-      "day" : 27
-    },
-    {
-      "city":"Wołczkowo",
-      "street":"Lipowa 1",
-      "start":"08:00",
-      "end":"11:00"
-    },
-    {
-      "city":"Mierzyn",
-      "street":"Długa",
       "start":"11:30",
-      "end":"14:00"
-    }
-  ],
-  "28": [
-    {
-      "day" : 28
+      "end":"14:30"
     },
     {
-      "city":"Mierzyn",
-      "street":"Topolowa",
-      "start":"10:30",
-      "end":"12:00"
+      "city":"Dołuje",
+      "street":"Daniela",
+      "start":"17:00",
+      "end":"19:00"
     }
   ]
 } 
