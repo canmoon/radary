@@ -492,4 +492,50 @@
       "end":"11:00"
     }
   ],
+  "30": [
+    {
+      "day" : 30
+    },
+    {
+      "city":"Mierzyn",
+      "street":"Długa",
+      "start":"07:30",
+      "end":"10:30"
+    },
+    {
+      "city":"Dobra",
+      "street":"Graniczna",
+      "start":"11:00",
+      "end":"14:00"
+    },
+    {
+      "city":"Dobra",
+      "street":"Szczecińska",
+      "start":"15:30",
+      "end":"17:30"
+    }
+  ],
+  "31": [
+    {
+      "day" : 31
+    },
+    {
+      "city":"Wołczkowo",
+      "street":"Lipowa 2",
+      "start":"07:30",
+      "end":"11:00"
+    },
+    {
+      "city":"Bezrzecze",
+      "street":"Górna",
+      "start":"12:00",
+      "end":"14:30"
+    },
+    {
+      "city":"Dołuje",
+      "street":"Daniela",
+      "start":"17:30",
+      "end":"19:00"
+    }
+  ]
 } 
