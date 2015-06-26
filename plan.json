@@ -1,13 +1,59 @@
 {
-"1": [
+"27": [
 {
-"day" : 1
+"day" : 27
 },
 {
-"city":"Brak",
-"street":"Brak",
-"start":"00:00",
-"end":"24:00"
+"city":"Wołczkowo",
+"street":"Lipowa 2",
+"start":"11:00",
+"end":"12:30"
+}
+],
+"29": [
+{
+"day" : 29
+},
+{
+"city":"Mierzyn",
+"street":"Długa",
+"start":"08:30",
+"end":"11:30"
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"11:30",
+"end":"14:30"
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 1",
+"start":"16:30",
+"end":"18:30"
+}
+],
+"30": [
+{
+"day" : 30
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"08:00",
+"end":"11:30"
+},
+{
+"city":"Dołuje",
+"street":"Daniela",
+"start":"11:30",
+"end":"14:00"
+},
+{
+"city":"Mierzyn",
+"street":"Topolowa",
+"start":"17:00",
+"end":"18:00"
 }
 ]
-}
+} 
