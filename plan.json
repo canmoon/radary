@@ -1,13 +1,512 @@
 {
-"27": [
+"1": [
 {
-"day" : 27
+"day" : 1
+},
+{
+"city":"Mierzyn",
+"street":"Długa",
+"start":"08:00",
+"end":"11:00"
+},
+{
+"city":"Dobra",
+"street":"Szczecińska",
+"start":"11:00",
+"end":"14:30"
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"17:30",
+"end":"19:00"
+}
+],
+"2": [
+{
+"day" : 2
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 2",
+"start":"07:45",
+"end":"11:00"
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"11:00",
+"end":"14:00"
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 1",
+"start":"18:00",
+"end":"20:30"
+}
+],
+"3": [
+{
+"day" : 3
+},
+{
+"city":"Dołuje",
+"street":"Daniela",
+"start":"07:30",
+"end":"09:30"
+},
+{
+"city":"Mierzyn",
+"street":"Topolowa",
+"start":"09:30",
+"end":"12:00"
+},
+{
+"city":"Dobra",
+"street":"Szczecińska",
+"start":"12:30",
+"end":"14:30"
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"17:00",
+"end":"18:30"
+}
+],
+"4": [
+{
+"day" : 4
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 1",
+"start":"10:30",
+"end":"12:30"
+}
+],
+"6": [
+{
+"day" : 6
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"07:00",
+"end":"10:00"
+},
+{
+"city":"Mierzyn",
+"street":"Długa",
+"start":"10:00",
+"end":"14:00"
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 2",
+"start":"16:30",
+"end":"18:00"
+}
+],
+"7": [
+{
+"day" : 7
+},
+{
+"city":"Dołuje",
+"street":"Daniela",
+"start":"08:00",
+"end":"10:30"
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"10:30",
+"end":"14:30"
+},
+{
+"city":"Mierzyn",
+"street":"Topolowa",
+"start":"17:30",
+"end":"19:00"
+}
+],
+"8": [
+{
+"day" : 8
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"07:30",
+"end":"11:30"
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"11:30",
+"end":"14:30"
+},
+{
+"city":"Dobra",
+"street":"Szczecińska",
+"start":"18:30",
+"end":"20:30"
+}
+],
+"9": [
+{
+"day" : 9
+},
+{
+"city":"Mierzyn",
+"street":"Długa",
+"start":"08:30",
+"end":"11:30"
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 1",
+"start":"11:30",
+"end":"14:30"
+},
+{
+"city":"Dołuje",
+"street":"Daniela",
+"start":"16:00",
+"end":"17:30"
+}
+],
+"10": [
+{
+"day" : 10
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"07:00",
+"end":"11:30"
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 2",
+"start":"11:30",
+"end":"14:30"
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"18:00",
+"end":"21:00"
+}
+],
+"11": [
+{
+"day" : 11
+},
+{
+"city":"Mierzyn",
+"street":"Długa",
+"start":"11:30",
+"end":"13:00"
+}
+],
+"13": [
+{
+"day" : 13
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 2",
+"start":"07:00",
+"end":"11:00"
+},
+{
+"city":"Mierzyn",
+"street":"Topolowa",
+"start":"11:00",
+"end":"13:30"
+},
+{
+"city":"Mierzyn",
+"street":"Długa",
+"start":"17:00",
+"end":"19:30"
+}
+],
+"14": [
+{
+"day" : 14
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"07:30",
+"end":"11:00"
+},
+{
+"city":"Dobra",
+"street":"Szczecińska",
+"start":"11:00",
+"end":"14:00"
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 2",
+"start":"16:30",
+"end":"20:30"
+}
+],
+"15": [
+{
+"day" : 15
+},
+{
+"city":"Mierzyn",
+"street":"Długa",
+"start":"07:00",
+"end":"11:00"
+},
+{
+"city":"Dołuje",
+"street":"Daniela",
+"start":"11:00",
+"end":"14:00"
+},
+{
+"city":"Dobra",
+"street":"Szczecińska",
+"start":"18:00",
+"end":"20:30"
+}
+],
+"16": [
+{
+"day" : 16
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 1",
+"start":"07:00",
+"end":"11:00"
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"11:00",
+"end":"13:30"
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"16:30",
+"end":"19:00"
+}
+],
+"17": [
+{
+"day" : 17
+},
+{
+"city":"Mierzyn",
+"street":"Długa",
+"start":"08:00",
+"end":"12:00"
+},
+{
+"city":"Mierzyn",
+"street":"Topolowa",
+"start":"12:00",
+"end":"14:00"
+},
+{
+"city":"Dobra",
+"street":"Szczecińska",
+"start":"17:30",
+"end":"20:30"
+}
+],
+"18": [
+{
+"day" : 18
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 2",
+"start":"12:00",
+"end":"14:30"
+}
+],
+"20": [
+{
+"day" : 20
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"07:00",
+"end":"11:30"
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 1",
+"start":"11:30",
+"end":"14:00"
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"16:30",
+"end":"19:30"
+}
+],
+"21": [
+{
+"day" : 21
+},
+{
+"city":"Dołuje",
+"street":"Daniela",
+"start":"07:30",
+"end":"11:30"
+},
+{
+"city":"Dobra",
+"street":"Szczecińska",
+"start":"12:00",
+"end":"14:00"
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 1",
+"start":"16:30",
+"end":"20:30"
+}
+],
+"22": [
+{
+"day" : 22
+},
+{
+"city":"Mierzyn",
+"street":"Długa",
+"start":"07:00",
+"end":"10:30"
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"10:30",
+"end":"14:00"
+},
+{
+"city":"Dobra",
+"street":"Szczecińska",
+"start":"18:00",
+"end":"20:00"
+}
+],
+"23": [
+{
+"day" : 23
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"07:30",
+"end":"11:00"
 },
 {
 "city":"Wołczkowo",
 "street":"Lipowa 2",
 "start":"11:00",
-"end":"12:30"
+"end":"14:30"
+},
+{
+"city":"Dołuje",
+"street":"Daniela",
+"start":"17:30",
+"end":"19:30"
+}
+],
+"24": [
+{
+"day" : 24
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 2",
+"start":"07:00",
+"end":"10:00"
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"10:00",
+"end":"13:30"
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"17:00",
+"end":"19:30"
+}
+],
+"25": [
+{
+"day" : 25
+},
+{
+"city":"Dołuje",
+"street":"Daniela",
+"start":"12:00",
+"end":"14:00"
+}
+],
+"27": [
+{
+"day" : 27
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"07:00",
+"end":"11:00"
+},
+{
+"city":"Wołczkowo",
+"street":"Lipowa 2",
+"start":"11:00",
+"end":"14:00"
+},
+{
+"city":"Mierzyn",
+"street":"Topolowa",
+"start":"16:30",
+"end":"19:30"
+}
+],
+"28": [
+{
+"day" : 28
+},
+{
+"city":"Dołuje",
+"street":"Daniela",
+"start":"07:30",
+"end":"11:30"
+},
+{
+"city":"Mierzyn",
+"street":"Długa",
+"start":"12:00",
+"end":"14:00"
+},
+{
+"city":"Dobra",
+"street":"Szczecińska",
+"start":"16:30",
+"end":"20:30"
 }
 ],
 "29": [
@@ -17,20 +516,20 @@
 {
 "city":"Mierzyn",
 "street":"Długa",
-"start":"08:30",
+"start":"07:00",
 "end":"11:30"
 },
 {
-"city":"Bezrzecze",
-"street":"Górna",
+"city":"Dobra",
+"street":"Graniczna",
 "start":"11:30",
-"end":"14:30"
+"end":"14:00"
 },
 {
 "city":"Wołczkowo",
 "street":"Lipowa 1",
-"start":"16:30",
-"end":"18:30"
+"start":"18:00",
+"end":"20:00"
 }
 ],
 "30": [
@@ -38,22 +537,39 @@
 "day" : 30
 },
 {
-"city":"Dobra",
-"street":"Graniczna",
-"start":"08:00",
-"end":"11:30"
+"city":"Wołczkowo",
+"street":"Lipowa 2",
+"start":"07:00",
+"end":"11:00"
+},
+{
+"city":"Bezrzecze",
+"street":"Górna",
+"start":"11:00",
+"end":"14:00"
 },
 {
 "city":"Dołuje",
 "street":"Daniela",
-"start":"11:30",
-"end":"14:00"
+"start":"17:30",
+"end":"19:30"
+}
+],
+"31": [
+{
+"day" : 31
+},
+{
+"city":"Dobra",
+"street":"Graniczna",
+"start":"07:00",
+"end":"10:00"
 },
 {
 "city":"Mierzyn",
 "street":"Topolowa",
-"start":"17:00",
-"end":"18:00"
+"start":"11:00",
+"end":"13:30"
 }
 ]
-} 
+}
