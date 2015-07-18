@@ -417,7 +417,7 @@
 "end":"11:00"
 },
 {
-"city":"Wołczkowo",
+"city":"Wolczkowo",
 "street":"Lipowa 2",
 "start":"11:00",
 "end":"14:30"
@@ -571,5 +571,5 @@
 "start":"11:00",
 "end":"13:30"
 }
-  ]
+]
 }
